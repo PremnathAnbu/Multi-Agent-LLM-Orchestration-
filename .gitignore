@@ -1,0 +1,4 @@
+.env
+venv/
+Multi_AI_Agent.egg-info/
+logs/
